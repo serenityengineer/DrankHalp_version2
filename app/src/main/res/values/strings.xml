@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrankHalp_version2</string>
+    <string name="button_TACOS">Tacos</string>
+    <string name="button_BURGERS">Burgers</string>
+    <string name="button_PIZZA">Pizza</string>
+    <string name="button_ASIAN">Asian</string>
+    <string name="string_foodtype">What are you hungry for?</string>
+    <string name="Tacos">\@string/button_tacos</string>
+</resources>
